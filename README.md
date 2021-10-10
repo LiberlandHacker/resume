@@ -1,4 +1,5 @@
 # resume
+Updated 10 Oct, 2021
 ![image](https://user-images.githubusercontent.com/67705789/136709443-ddfbf5b5-9813-4436-bf23-23aa2e918146.png)
 
 
@@ -37,25 +38,25 @@ https://linkedin.com/in/jonathan-mccormick-jr | https://github.com/McCormick9
 * I am also working on learning the <b>Django</b> framework for Python.
 
 ## Experience*
-* Founder of Outsmart Big Brother™ <i>Feb 2021 – Present</i>,
-* Senior International Correspondent at Liberland Press <i>Sep 2020 – Present</i>,
-* Editor and Proofreader [freelance] <i>Mar 2020 – Mar 2021</i>,
-* Financial Secretary at Maplewood Academy <i>Aug 2017 – May 2018</i> (student position),
-* Page at Oklahoma State Senate <i>Mar 2018</i> (temporary position)
+* <b>Founder</b> of Outsmart Big Brother™ <i>Feb 2021 – Present</i>,
+* <b>Senior International Correspondent</b> at Liberland Press <i>Sep 2020 – Present</i>,
+* <b>Editor and Proofreader</b> [freelance] <i>Mar 2020 – Mar 2021</i>,
+* <b>Financial Secretary</b> at Maplewood Academy <i>Aug 2017 – May 2018</i> (student position),
+* <b>Page</b> at Oklahoma State Senate <i>Mar 2018</i> (temporary position)
 
 ## Education & certificates*
-* Advanced Diploma from Maplewood Academy (high school) 2017-19
-    * Graduated with highest honors (4.00 unweighted, cumulative GPA).
-    * Scored within the 93rd percentile on the ACT (Possible: 36, Composite: 30, Math: 27, Science: 30, English: 34, Reading: 30).
-* Responsive Web Design certificate from freeCodeCamp Sep 2021
-* Python 3 Tutorial certificate from Sololearn Jul 2020
-* Startup School Participant Certificate of Completion from Y Combinator Aug 2020
-* Intellectual Property Law and Policy: Part 1 certificate from edX Mar 2021
-* Blockchain Technology certificate from edX Jan 2021
-* HTML Fundamentals Course from Sololearn Aug 2020
-* Python Data Structures certificate from Sololearn Mar 2021
-* Python Core (updated version of “Python 3 Tutorial”) from Sololearn Sep 2021
-* SQL certificate from Sololearn Sep 2021
+* <b>Advanced Diploma</b> from Maplewood Academy (high school) 2017-19
+    * Graduated with <b>highest honors</b> (4.00 unweighted, cumulative GPA).
+    * Scored within the <b>93rd percentile on the ACT</b> (Possible: 36, Composite: 30, Math: 27, Science: 30, English: 34, Reading: 30).
+* <b>Responsive Web Design</b> certificate from freeCodeCamp Sep 2021
+* <b>Python 3 Tutorial</b> certificate from Sololearn Jul 2020
+* <b>Startup School Participant Certificate of Completion</b> from Y Combinator Aug 2020
+* <b>Intellectual Property Law and Policy: Part 1</b> certificate from edX Mar 2021
+* <b>Blockchain Technology</b> certificate from edX Jan 2021
+* <b>HTML Fundamentals Course</b> from Sololearn Aug 2020
+* <b>Python Data Structures</b> certificate from Sololearn Mar 2021
+* <b>Python Core</b> (updated version of “Python 3 Tutorial”) from Sololearn Sep 2021
+* <b>SQL</b> certificate from Sololearn Sep 2021
 ## Awards
 * <b>Eagle Scout</b> award/rank in BSA, Cherokee Area Council, Troop 2000 Jun 2016
 
