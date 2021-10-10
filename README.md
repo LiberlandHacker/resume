@@ -26,7 +26,7 @@ https://linkedin.com/in/jonathan-mccormick-jr | https://github.com/McCormick9
 * <b>GIMP</b> (graphic design),
 * <b>Inkscape</b> (vector graphic design),
 * <b>Kdenlive</b> (video editing),
-    * Liberland 6th anniversary video: https://drive.google.com/file/d/15b4CMWYc6yNcSd6fL6KzQ0I4qvejKy_I/view?usp=sharing
+    * Liberland 6th anniversary video (Sorry for the mediocre resolution): https://drive.google.com/file/d/15b4CMWYc6yNcSd6fL6KzQ0I4qvejKy_I/view?usp=sharing
 * <b>Electrum</b> BTC wallet,
 * <b>EFF Certbot</b> (free, automated SSL encryption via LetsEncrypt),
 * <b>Normal, DNS domains</b> (".com", ".org", etc.) by ICANN,
